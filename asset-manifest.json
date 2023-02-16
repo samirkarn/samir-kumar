@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e8d6d4a0.css",
-    "main.js": "/react-gh-pages/static/js/main.bf77c0c9.js",
-    "static/media/hero.jpg": "/react-gh-pages/static/media/hero.764c542f19e12e322696.jpg",
-    "static/media/project1.png": "/react-gh-pages/static/media/project1.af9acba1c4f8f4d91747.png",
-    "static/media/project3.png": "/react-gh-pages/static/media/project3.3049aab3555ad5387e9a.png",
-    "static/media/frontend.png": "/react-gh-pages/static/media/frontend.2a25e67f1ac6a859f6d4.png",
-    "static/media/samir.jpg": "/react-gh-pages/static/media/samir.8180cbaab279fab8e061.jpg",
-    "static/media/project2.png": "/react-gh-pages/static/media/project2.f03df56bf53eeb9bde3f.png",
-    "static/media/revicons.eot": "/react-gh-pages/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/react-gh-pages/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/react-gh-pages/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e8d6d4a0.css.map": "/react-gh-pages/static/css/main.e8d6d4a0.css.map",
-    "main.bf77c0c9.js.map": "/react-gh-pages/static/js/main.bf77c0c9.js.map"
+    "main.css": "/samir-kumar/static/css/main.88e70757.css",
+    "main.js": "/samir-kumar/static/js/main.a9abd991.js",
+    "static/media/hero.jpg": "/samir-kumar/static/media/hero.764c542f19e12e322696.jpg",
+    "static/media/project1.png": "/samir-kumar/static/media/project1.af9acba1c4f8f4d91747.png",
+    "static/media/project3.png": "/samir-kumar/static/media/project3.3049aab3555ad5387e9a.png",
+    "static/media/frontend.png": "/samir-kumar/static/media/frontend.2a25e67f1ac6a859f6d4.png",
+    "static/media/samir.jpg": "/samir-kumar/static/media/samir.8180cbaab279fab8e061.jpg",
+    "static/media/project2.png": "/samir-kumar/static/media/project2.f03df56bf53eeb9bde3f.png",
+    "static/media/revicons.eot": "/samir-kumar/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/samir-kumar/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/samir-kumar/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/samir-kumar/index.html",
+    "main.88e70757.css.map": "/samir-kumar/static/css/main.88e70757.css.map",
+    "main.a9abd991.js.map": "/samir-kumar/static/js/main.a9abd991.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8d6d4a0.css",
-    "static/js/main.bf77c0c9.js"
+    "static/css/main.88e70757.css",
+    "static/js/main.a9abd991.js"
   ]
 }
