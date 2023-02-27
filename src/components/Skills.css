@@ -1,0 +1,16 @@
+.skills-heading{
+    text-align: center;
+}
+
+.skills {
+    margin: 1rem 10rem;
+    padding-bottom: 10px;
+}
+
+.techs {
+    margin: 15px 0;
+}
+
+.techs h3{
+    color: white;
+}
